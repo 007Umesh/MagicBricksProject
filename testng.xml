@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="com.capgemini.tests.Tst_001_FlatRent"/>
+      <class name="com.capgemini.tests.Tst_002_HouseRent"/>
+      <class name="com.capgemini.tests.Tst_003_VillaRent"/>
+      <class name="com.capgemini.tests.Tst_004_OfficeRent"/>
+      <class name="com.capgemini.tests.Tst_005_PgRent"/>
+      <class name="com.capgemini.tests.Tst_006_EstimateInteriorDesign"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
