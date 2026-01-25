@@ -1,4 +1,4 @@
-package com.capgemini.pages;
+package com.magicbricks.pages;
 
 import java.time.Duration;
 

@@ -1,4 +1,4 @@
-package com.capgemini.driversetup;
+package com.magicbricks.driversetup;
 
 import java.util.HashMap;
 

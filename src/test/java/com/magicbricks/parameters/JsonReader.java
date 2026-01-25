@@ -1,4 +1,4 @@
-package com.capgemini.parameters;
+package com.magicbricks.parameters;
 
 import java.io.FileReader;
 

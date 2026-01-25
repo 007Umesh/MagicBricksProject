@@ -1,4 +1,4 @@
-package com.capgemini.pages;
+package com.magicbricks.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

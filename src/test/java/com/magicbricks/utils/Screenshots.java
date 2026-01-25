@@ -1,4 +1,4 @@
-package com.capgemini.utils;
+package com.magicbricks.utils;
 
 import java.io.File;
 

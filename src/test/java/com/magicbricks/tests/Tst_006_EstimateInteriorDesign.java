@@ -1,4 +1,4 @@
-package com.capgemini.tests;
+package com.magicbricks.tests;
 
 import java.time.Duration;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.capgemini.tests;
+package com.magicbricks.tests;
 
 import java.lang.reflect.Method;
 
