@@ -14,7 +14,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-import com.capgemini.utils.Screenshots;
+import com.magicbricks.utils.Screenshots;
 
 public class BaseReport {
 	protected static ExtentReports extentReport;

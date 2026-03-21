@@ -10,13 +10,12 @@ import java.util.Set;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.*;
-
-import com.capgemini.driversetup.SetupDriver;
-import com.capgemini.pages.BasePage;
-import com.capgemini.pages.FlatRent;
-import com.capgemini.pages.HomePage;
-import com.capgemini.parameters.ExcelReader;
-import com.capgemini.utils.Screenshots;
+import com.magicbricks.driversetup.SetupDriver;
+import com.magicbricks.pages.BasePage;
+import com.magicbricks.pages.FlatRent;
+import com.magicbricks.pages.HomePage;
+import com.magicbricks.parameters.ExcelReader;
+import com.magicbricks.utils.Screenshots;
 
 public class Tst_001_FlatRent extends BaseReport {
 

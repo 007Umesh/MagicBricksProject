@@ -12,12 +12,12 @@ import org.testng.Reporter;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.capgemini.driversetup.SetupDriver;
-import com.capgemini.pages.BasePage;
-import com.capgemini.pages.HomePage;
-import com.capgemini.pages.RentPg;
-import com.capgemini.parameters.PropertyReader;
-import com.capgemini.utils.Screenshots;
+import com.magicbricks.driversetup.SetupDriver;
+import com.magicbricks.pages.BasePage;
+import com.magicbricks.pages.HomePage;
+import com.magicbricks.pages.RentPg;
+import com.magicbricks.parameters.PropertyReader;
+import com.magicbricks.utils.Screenshots;
 
 public class Tst_005_PgRent extends BaseReport {
 	String baseURL;
